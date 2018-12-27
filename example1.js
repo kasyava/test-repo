@@ -13,9 +13,6 @@ array.push(7);
 
 console.log(array);
 
-array[0] = 3;
-
-console.log(array);
 
 
 
